@@ -1,0 +1,23 @@
+{
+    "Auto": ["Automobiles", "Auto Ancillaries", "Auto Components"],
+    "Banking": ["Public Sector Banks", "Private Sector Banks"],
+    "Consumer Durable": ["Home Appliances", "Apparel", "Accessories"],
+    "FMCG": ["Food", "Beverages", "Tobacco", "Household Products"],
+    "Healthcare": ["Pharmaceuticals", "Hospitals", "Biotechnology", "Diagnostics"],
+    "IT": ["Software", "Hardware", "IT Services"],
+    "Media": ["Broadcasting", "Publishing", "Entertainment"],
+    "Metal": ["Ferrous Metals", "Non-Ferrous Metals", "Mining"],
+    "Oil & Gas": ["Exploration", "Refining", "Marketing", "Petrochemicals"],
+    "Realty": ["Real Estate Developers", "Infrastructure"],
+    "Retail": ["Online Retail", "Offline Retail", "Fashion", "Supermarkets"],
+    "Telecom": ["Telecom Services", "Telecom Equipment"],
+    "Utilities": ["Power Generation", "Power Transmission", "Renewable Energy"],
+    "Financial Services": ["NBFCs", "Insurance", "Asset Management"],
+    "Cement & Construction": ["Cement", "Construction Materials", "Construction Services"],
+    "Capital Goods": ["Machinery", "Defense", "Industrial Equipment"],
+    "Chemicals": ["Organic", "Inorganic", "Specialty Chemicals"],
+    "Textiles": ["Apparel", "Fabrics", "Yarn"],
+    "Agriculture": ["Seeds", "Fertilizers", "Agri-Equipment"],
+    "Travel & Leisure": ["Hotels", "Tourism", "Airlines"]
+  }
+  

@@ -1,0 +1,80 @@
+{
+    "portfolio": [
+      {
+        "industry": "IT Services",
+        "stocks": [
+          {"name": "INFY", "percentage_of_investment": 10},
+          {"name": "TCS", "percentage_of_investment": 7.5},
+          {"name": "TECHM", "percentage_of_investment": 2.5},
+          {"name": "PERSISTENT", "percentage_of_investment": 5}
+        ]
+      },
+      {
+        "industry": "Pharma",
+        "stocks": [
+          {"name": "DRREDDY", "percentage_of_investment": 7.5},
+          {"name": "SUNPHARMA", "percentage_of_investment": 7.5}
+        ]
+      },
+      {
+        "industry": "Engineering & Construction",
+        "stocks": [{"name": "LT", "percentage_of_investment": 10}]
+      },
+      {
+        "industry": "Steel",
+        "stocks": [
+          {"name": "TATASTEEL", "percentage_of_investment": 5},
+          {"name": "JSWSTEEL", "percentage_of_investment": 5}
+        ]
+      },
+      {
+        "industry": "Banking",
+        "stocks": [
+          {"name": "BANKBARODA", "percentage_of_investment": 2.5},
+          {"name": "PNB", "percentage_of_investment": 2.5},
+          {"name": "ICICIBANK", "percentage_of_investment": 5}
+        ]
+      },
+      {
+        "industry": "Automotive",
+        "stocks": [{"name": "GABRIEL", "percentage_of_investment": 5}]
+      },
+      {
+        "industry": "Process & Project Engg",
+        "stocks": [{"name": "PRAJIND", "percentage_of_investment": 5}]
+      },
+      {
+        "industry": "Food & Services",
+        "stocks": [{"name": "ZOMATO", "percentage_of_investment": 5}]
+      },
+      {
+        "industry": "Lifestyle & Jewelry",
+        "stocks": [{"name": "TITAN", "percentage_of_investment": 5}]
+      },
+      {
+        "industry": "Conglomerate",
+        "stocks": [{"name": "RELIANCE", "percentage_of_investment": 5}]
+      },
+      {
+        "industry": "FMCG",
+        "stocks": [{"name": "HINDUNILVR", "percentage_of_investment": 5}]
+      },
+      {
+        "industry": "Telecom",
+        "stocks": [{"name": "BHARTIARTL", "percentage_of_investment": 5}]
+      },
+      {
+        "industry": "Consumer Durables",
+        "stocks": [{"name": "HAVELLS", "percentage_of_investment": 5}]
+      },
+      {
+        "industry": "Defence",
+        "stocks": [{"name": "COCHINSHIP", "percentage_of_investment": 2.5}]
+      }, 
+      {
+        "industry": "Railway",
+        "stocks": [{"name": "TWL", "percentage_of_investment": 2.5}]
+      } 
+    ]
+  }
+  
