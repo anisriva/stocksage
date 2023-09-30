@@ -1,3 +1,4 @@
+from os import environ
 from datetime import timedelta
 
 from core.ticker import download_ticker_data
@@ -19,7 +20,7 @@ if __name__ == '__main__':
     initialize()
     data = download_ticker_data(
                     stock_name='INFY', 
-                    time_delta=timedelta(days=10), 
+                    time_delta=timedelta(days=100), 
                     session=session
                     )
     print(data)
